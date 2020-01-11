@@ -3,7 +3,5 @@ file1 first commit updated fromthe git A1
 second line branch name master commit A2
 third line branch name feture commit A3
 fourth line brannch name feture commit A4
-=======
-file1 first commit updated fromthe git
-second line branch name master commit B
->>>>>>> 9b11b79... A2 commit
+
+
